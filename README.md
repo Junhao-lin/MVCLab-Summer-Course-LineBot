@@ -16,8 +16,7 @@ Calculator
 - input (a,b can be negative)
   - `a+b`
   - `a + b`
-  - `a+b =`
-  - Sticker
+  - `a+b =` 
 - output
   - `calculation result` 
   - If you enter illegal characters or don't match the rules you will get the picture
